@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">NEO VAULT — Your digital space, under your control</title>
+<desc id="desc">Dark security themed Neo Vault project banner with neon teal geometric shield and data circuitry.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#050914"/><stop offset="45%" stop-color="#0b1625"/><stop offset="100%" stop-color="#071b1b"/></linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#b6ffdd"/><stop offset="45%" stop-color="#43e6cf"/><stop offset="100%" stop-color="#10b8ed"/></linearGradient>
+  <linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#43e6cf" stop-opacity=".12"/><stop offset="100%" stop-color="#10b8ed" stop-opacity=".01"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0%" stop-color="#22e4cf" stop-opacity=".14"/><stop offset="100%" stop-color="#22e4cf" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#68eddb" stroke-width=".7" opacity=".055" fill="none"/></pattern>
+</defs>
+<rect width="1280" height="420" fill="url(#bg)"/>
+<rect width="1280" height="420" fill="url(#grid)"/>
+<ellipse cx="1031" cy="198" rx="370" ry="330" fill="url(#glow)"/>
+<path d="M0 60H1280M0 359H1280" stroke="#ffffff" stroke-opacity=".055"/>
+<g fill="none" stroke="#57dccd" stroke-width="1.2" opacity=".19">
+ <path d="M0 91H180L218 128H402"/><path d="M0 331H160L218 280H370"/>
+ <path d="M1280 84H1152L1128 109H1038"/><path d="M1280 330H1172L1123 281H1015"/>
+ <path d="M740 0V95L775 127H822"/><path d="M806 420V342L844 304"/>
+</g>
+<g fill="#50dcca" opacity=".48"><circle cx="180" cy="91" r="3"/><circle cx="160" cy="331" r="3"/><circle cx="1152" cy="84" r="3"/><circle cx="1172" cy="330" r="3"/></g>
+<g font-family="Arial, Helvetica, sans-serif">
+ <rect x="75" y="73" rx="14" width="214" height="30" fill="#54f5dc" fill-opacity=".085" stroke="#52ead3" stroke-opacity=".23"/>
+ <text x="91" y="93" fill="#8af0db" font-size="12" font-weight="700" letter-spacing="2.6">NEXUS DYNAMICS</text>
+ <text x="73" y="202" fill="#f7fbff" font-size="82" font-weight="800" letter-spacing="3">NEO<tspan fill="url(#a)"> VAULT</tspan></text>
+ <rect x="76" y="231" width="66" height="4" rx="2" fill="url(#a)"/>
+ <text x="76" y="277" fill="#b7cbd6" font-size="23" font-weight="400" letter-spacing=".7">Your digital space. Under your control.</text>
+ <text x="76" y="329" fill="#82a8b1" font-size="14" letter-spacing="2">BIOMETRIC ACCESS    /    SECURE LOCAL STORAGE    /    FLUTTER</text>
+ <text x="76" y="386" fill="#67828d" font-size="11" letter-spacing="2.2">PRODUCT SHOWCASE    •    PRIVATE APPLICATION SOURCE</text>
+</g>
+<g transform="translate(906 51)">
+ <circle cx="152" cy="156" r="137" fill="none" stroke="#7de3db" stroke-opacity=".07" stroke-width="2"/>
+ <circle cx="152" cy="156" r="115" fill="none" stroke="#7de3db" stroke-opacity=".12" stroke-dasharray="8 13"/>
+ <circle cx="152" cy="156" r="94" fill="url(#b)" stroke="#5fe8d4" stroke-opacity=".17" stroke-width="1.5"/>
+ <path d="M152 59L222 88V152C222 197 191 231 152 249C113 231 82 197 82 152V88Z" fill="#101d2c" stroke="url(#a)" stroke-width="5" stroke-linejoin="round"/>
+ <path d="M152 77L204 99V152C204 185 183 212 152 228C121 212 100 185 100 152V99Z" fill="#0d2631" stroke="#85ffe3" stroke-opacity=".21" stroke-width="2"/>
+ <rect x="125" y="142" width="54" height="51" rx="9" fill="url(#a)"/>
+ <path d="M135 142V131C135 108 169 108 169 131V142" stroke="#7debd7" stroke-width="9" fill="none" stroke-linecap="round"/>
+ <circle cx="152" cy="163" r="5" fill="#073137"/><path d="M152 167V177" stroke="#073137" stroke-width="5" stroke-linecap="round"/>
+ <path d="M142 60L152 50L162 60" stroke="#5bdbc8" opacity=".36" stroke-width="2" fill="none"/>
+ <circle cx="152" cy="18" r="4" fill="#5eeed4"/><circle cx="152" cy="294" r="4" fill="#5eeed4"/>
+ <circle cx="14" cy="156" r="4" fill="#5eeed4"/><circle cx="290" cy="156" r="4" fill="#5eeed4"/>
+</g>
+</svg>
